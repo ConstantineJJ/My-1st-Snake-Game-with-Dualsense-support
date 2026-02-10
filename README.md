@@ -1,4 +1,4 @@
-# 🐍 Snake Game - Enhanced Classic Snake
+# 🐍 Snake Game - This game was made using Visual Studio Code and AI Agents. I just learning to programming and used vibecoding to edit game and fix errors.
 
 A modern take on the classic Snake game with upgraded graphics, bonuses, debuffs, and gamepad support.
 
@@ -175,3 +175,4 @@ Built with Pygame and structured to be easily extended with new items and mechan
 ---
 
 **Have fun! 🐍✨**
+
